@@ -1,1 +1,1 @@
-console.log("Hello from Jenkins CI/CD demo");
+console.log("Hello from Jenkins CI/CD demo - version 2");
